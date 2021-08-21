@@ -2,3 +2,4 @@
 Use this to open hidden activities on MIUI.
 
 DELETE README&.git AFTER DOWNLOADING!!
+deneme
